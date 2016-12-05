@@ -1,0 +1,18 @@
+Considere como verdadeiras as seguintes afirmações:
+
+- Algumas pessoas são necrupulosas.
+- Os necrupulosos são sempre amarelos ou verdes. 
+- Todo nervoso é vermelho.
+- As baleias são verdes.
+- Os rinocerontes são amarelos.
+- Todas as pessoas são nervosas.
+
+Assinale com (V)erdadeiro ou (F)also.
+( F ) Todas as pessoas nervosas são necrupulosas
+( V ) Se uma pessoa é verde ou amarela então ela é necrupulosa
+( V ) As baleias são necrupulosas
+( V ) Todas as pessoas são vermelhas
+( V ) Os rinocerontes são sempre necrupulosos
+( F ) Os necrupulosos são sempre pessoas ou baleias ou rinocerontes
+( V ) Se uma pessoa é necrupulosa então ela é verde ou amarela
+( V ) Se algo é azul ou preto então este algo não é baleia, nem é nervoso e nem é rinoceronte

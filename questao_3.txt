@@ -1,0 +1,12 @@
+Departamento([pk]id_dep, nome)
+Projeto([pk]id_proj, nome, prazo)
+DepartamentoXProjeto([fk]id_dep,[fk]id_proj)
+Funcionario([pk]id_func, nome, cpf, [fk]id_end, [fk]id_dep, [fk]id_func)
+Endereco([pk]id_end,logradouro, bairro, cidade, uf, pais)
+HistoricoFuncionario(id_func,[fk]id_dep, inicio, fim)
+Dependente([pk]id_dep, nome, sexo, aniversario, parentesco, [fk]id_func)
+RelatorioProjeto([fk]id_func,[fk]id_proj,horas,data)
+Visita([fk]id_func,[fk]id_cli,horas,atividades,data)
+Cliente([pk]id_cli,nome,cpf)
+
+
